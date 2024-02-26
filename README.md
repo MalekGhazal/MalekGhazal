@@ -5,7 +5,14 @@ I'm a passionate Full Stack Developer based in Montreal, QC, Canada. With a soli
 ## About Me
 
 - 🎓 Graduated from Vanier College in Montreal with a degree in Software Development in 2023.
-- 💻 Proficient in Java, JavaScript, HTML, CSS, React, C#, TailwindCSS, Bootstrap, Linux, Git, GitHub, SQL, MongoDB, and AWS EC2.
+- 💻 Tech Skills:
+  - HTML, CSS, JavaScript, React, NodeJS
+  - Bootstrap, Tailwind CSS
+  - Java, Spring, Web Services, REST
+  - C#, WinForms, .NET, MVC, OOP
+  - Git, GitHub, Linux, CentOS, AWS
+  - SQL, Oracle, MongoDB
+  - Flutter, Dart
 - 🔭 Currently working on self-projects and freelancing, exploring new technologies, and refining my skills.
 - 💼 Completed a 4-month internship as a Full Stack Developer, utilizing the MERN stack, at KinoKlik.
 - 🚀 Experienced in both solo and team projects, with a strong emphasis on collaboration and communication.
