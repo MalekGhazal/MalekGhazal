@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer based in Montreal, QC, Canada. With a soli
   - SQL, Oracle, MongoDB
   - Flutter, Dart
 - 🔭 Currently working on self-projects and freelancing, exploring new technologies, and refining my skills.
-- 💼 Completed a 4-month internship as a Full Stack Developer, utilizing the MERN stack, at KinoKlik.
+- 💼 Completed a 6-month internship as a Full Stack Developer, utilizing the MERN stack, at KinoKlik.
 - 🚀 Experienced in both solo and team projects, with a strong emphasis on collaboration and communication.
 
 ## Projects
