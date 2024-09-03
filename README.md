@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Hi there, I'm Malek Kazal! 👋<br>I'm a passionate Full Stack Developer based in Montreal, QC, Canada.<br>With a solid foundation in Software Development and a knack for problem-solving, I thrive in creating innovative solutions across the stack.<br>🎓 Graduated from Vanier College in Montreal with a degree in Software Development in Dec 2023.<br>💼 Completed a 6-month internship as a Full Stack Developer, utilizing the MERN stack, at KinoKlik.<br>🚀 Experienced in both solo and team projects, with a strong emphasis on collaboration and communication.<br>🔭 Currently working on self-projects and freelancing, exploring new technologies, and refining my skills.
 
@@ -20,5 +21,4 @@ Hi there, I'm Malek Kazal! 👋<br>I'm a passionate Full Stack Developer based i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MalekGhazal&icon=5&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
