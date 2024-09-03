@@ -1,8 +1,7 @@
-<div align="center">
 # 💫 About Me:
 Hi there, I'm Malek Kazal! 👋<br>I'm a passionate Full Stack Developer based in Montreal, QC, Canada.<br>With a solid foundation in Software Development and a knack for problem-solving, I thrive in creating innovative solutions across the stack.<br>🎓 Graduated from Vanier College in Montreal with a degree in Software Development in Dec 2023.<br>💼 Completed a 6-month internship as a Full Stack Developer, utilizing the MERN stack, at KinoKlik.<br>🚀 Experienced in both solo and team projects, with a strong emphasis on collaboration and communication.<br>🔭 Currently working on self-projects and freelancing, exploring new technologies, and refining my skills.
-
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malekkazal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malekghazal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22511902) 
 
